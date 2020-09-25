@@ -1,2 +1,2 @@
 # NeuralNetworks
-自学神经网络的小demo
+自学神经网络的小demo。

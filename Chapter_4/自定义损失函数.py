@@ -43,5 +43,4 @@ with tf.Session() as sess:
             print(sess.run(w1), "\n")
     print("w1的最终结果是：\n", sess.run(w1))
     x1, x2 = sess.run(w1)[0], sess.run(w1)[1]
-
     print("所得预测函数表达式为：y=%.2fa+%.2fb" % (x1, x2))
